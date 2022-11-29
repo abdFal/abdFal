@@ -12,4 +12,4 @@ Thing I'm interested in:
 - Programming
 - Sharing with someone
 
-<img height="180em" src="https://github-readme-stats.vercel.app/apiabdFalGapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/?username=abdFal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
