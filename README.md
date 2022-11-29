@@ -6,3 +6,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on programming
 - 💬 Ask me about anything
 - 😄 Pronouns: Yours
+
+Thing I'm interested in:
+
+- Programming
+- Sharing with someone
