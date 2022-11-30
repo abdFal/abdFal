@@ -12,6 +12,8 @@ Thing I'm interested in:
 - Programming
 - Sharing with someone
 
+My Skill
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![@abdfal's Holopin board](https://holopin.me/abdfal)](https://holopin.io/@abdfal)
 
