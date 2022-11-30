@@ -13,7 +13,9 @@ Thing I'm interested in:
 - Sharing with someone
 
 My Skill
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 [![@abdfal's Holopin board](https://holopin.me/abdfal)](https://holopin.io/@abdfal)
 
