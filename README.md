@@ -1,6 +1,6 @@
 ### Hi Everyone, I'm Abdillah Naufal 🙂
 
-I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
+Let's connect each other
 
 **What I'm Interested In**:
 - Movies
@@ -33,7 +33,7 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/anas-muflih-003275236/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abdillahnaufal/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/anas.muflih)
 [<img src="https://img.shields.io/badge/dribbble-%2312100E.svg?&style=for-the-badge&logo=dribbble&logoColor=white&color=black" />](https://dribbble.com/ansz)
 [<img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/channel/UCaanLk_d73XSyW5FR67HfWA)
