@@ -10,7 +10,7 @@ Let's connect each other
  **I am open to**:
 
 - Any collobration project,
-- Religi talk
+- muslim talk
 
 ## Skills:
 
@@ -25,6 +25,7 @@ Let's connect each other
 
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
 #### IDEs
 
