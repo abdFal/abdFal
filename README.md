@@ -34,9 +34,8 @@ Let's connect each other
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abdillahnaufal/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/anas.muflih)
-[<img src="https://img.shields.io/badge/dribbble-%2312100E.svg?&style=for-the-badge&logo=dribbble&logoColor=white&color=black" />](https://dribbble.com/ansz)
-[<img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/channel/UCaanLk_d73XSyW5FR67HfWA)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/naufallsmn_)
+[<img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/channel/UCpat0_xRdyyZaSYBpfzUILg)
 </p>
 
 <a href="http://www.github.com/abdFal"><img src="https://github-readme-stats.vercel.app/api?username=abdFal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdFal's GitHub stats" /></a>
