@@ -2,7 +2,7 @@
 
 ### Let's connect each other
 
-**What I'm Interested In**:
+**What I'm Interested In 🎶**:
 - Movies
 - Music
 - Sport
