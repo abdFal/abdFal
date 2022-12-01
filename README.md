@@ -6,11 +6,12 @@
 - Movies
 - Music
 - Sport
+- Tech
 
- **i preferred to**:
+ **I preferred to**:
 
-- Any collobration project,
-- muslim talk
+- Collobration project
+- Share a story
 
 ## Skills:
 
