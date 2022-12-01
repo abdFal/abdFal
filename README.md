@@ -7,7 +7,7 @@
 - Music
 - Sport
 
- **I am open to**:
+ **i preferred to**:
 
 - Any collobration project,
 - muslim talk
