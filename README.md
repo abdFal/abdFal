@@ -13,6 +13,8 @@
 - Collobration project
 - Share a story
 
+<hr>
+
 ## Skills:
 
 #### Languages:
