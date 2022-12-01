@@ -1,4 +1,4 @@
-## Hi Everyone, I'm Abdillah Naufal 🙂
+## Hello Everyone, I'm Abdillah Naufal 🙂
 
 ### Let's connect each other
 
