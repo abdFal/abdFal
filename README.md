@@ -46,7 +46,7 @@
 
 <hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdFal&repo=github-readme-stats)](https://github.com/abdFal/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdFal&repo=audi-website)](https://github.com/abdFal/audi-website)
 
 ![abdFal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdFal&show_icons=true&theme=tokyonight)
 
