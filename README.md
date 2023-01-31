@@ -7,6 +7,7 @@
 - Music
 - Sport
 - Tech
+- LifeStyle
 
  **I preferred to**:
 
