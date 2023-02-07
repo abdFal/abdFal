@@ -136,6 +136,7 @@
 <br>
 <br>
 
+<div align="center">
 
 ### 🔥 Streak Stats
 
