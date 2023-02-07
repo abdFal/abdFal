@@ -154,9 +154,9 @@
 ### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="35" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=abdFal&theme=juicyfresh&no-bg=true" />
 
-
+<div align="left">
 <br>
-## <b>Thank you for visiting my profile...✨</b>
+### <b>Thank you for visiting my profile...✨</b>
 
 </div>
 <br>
