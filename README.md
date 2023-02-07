@@ -83,9 +83,9 @@
 
 <br>
 
-
-
------
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <br>
 <br>
@@ -136,14 +136,17 @@
 <br>
 <br>
 
-<div align="center">
 
 ### 🔥 Streak Stats
 
+<div align="center">
+	
 ![abdFal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=abdFal&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
+<div align="center">
+	
 <img alt="abdFal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abdFal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <div align='center'>
