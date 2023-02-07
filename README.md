@@ -135,8 +135,17 @@
 <br>
 <br>
 
+### 🔥 Streak Stats
+
+![abdFal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=abdFal&theme=tokyonight)
+
+### 📊 Contribution Stats
+
+<img alt="abdFal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abdFal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 <div align='center'>
 
+	
 ## <b>Thank you for visiting my profile...✨</b>
 
 </div>
