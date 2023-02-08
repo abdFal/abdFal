@@ -123,8 +123,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -148,13 +147,6 @@
 <br>
 <br>
 	
-### 📊 Contribution Stats
-
-<div align="center">
-	
-<img alt="abdFal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abdFal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-</div>
 
 ### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="35" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=abdFal&theme=juicyfresh&no-bg=true" />
