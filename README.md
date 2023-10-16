@@ -5,6 +5,8 @@
 ## <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="35" />&nbsp;Git profile Trophies</p>
 ![](https://github-trophies.vercel.app/?username=abdFal)
 
+[![An image of @abdfal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdfal)](https://holopin.io/@abdfal)
+
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
